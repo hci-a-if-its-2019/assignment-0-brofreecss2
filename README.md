@@ -19,6 +19,7 @@ When you go to the services category, (PLN payment, investment, vouchers, etc), 
 ## 3. Door handle
 
 [![](images/twitter.png)](https://twitter.com/gamaladnando/status/1095661628056514560)
+
 Everyday we will need to enter many types of rooms to do our daily activities, like attending lectures, learning, sleeping, and many more. To enter a room, usually we need to open a door which functions as a portal between a room and the outside world or another room. The act of opening a door can sometimes confuse people; whether to pull or push the door to open. This sometimes can happen especially with a door designed to be opened using a handle.
 
 When a person sees a door handle, the person will need to think whether to open the door either by pulling, pushing, or sliding the door.
