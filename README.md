@@ -15,3 +15,8 @@ Second, to open this door from the inside, you need to push a button to open the
 ![Bukalapak Services Section](images/bukalapak.gif)
 
 When you go to the services category, (PLN payment, investment, vouchers, etc), you will be provided with an array of options for you to select. But, the options comes with buttons that is similar in color and small text that may confuse some people.
+
+## 3. Door handle
+Everyday we will need to enter many types of rooms to do our daily activities, like attending lectures, learning, sleeping, and many more. To enter a room, usually we need to open a door which functions as a portal between a room and the outside world or another room. The act of opening a door can sometimes confuse people; whether to pull or push the door to open. This sometimes can happen especially with a door designed to be opened using a handle.
+
+When a person sees a door handle, the person will need to think whether to open the door either by pulling, pushing, or sliding the door.
